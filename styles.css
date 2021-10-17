@@ -250,3 +250,40 @@ left: 35px;
 background-color: rgba(183, 152, 255, 0.685);
 border-radius: 50%;
 }
+
+.dum1{
+    position: relative;
+    border-radius: 50%;
+    width: 38px;
+    left: 10px;
+    bottom: -10px;
+}
+.dum2{
+    position: relative;
+    border-radius: 50%;
+    width: 38px;
+    left: 10px;
+    bottom: -10px;
+}
+.dum3{
+    position: relative;
+    border-radius: 50%;
+    width: 38px;
+    left: 10px;
+    bottom: -10px;
+}
+.dum4{
+    position: relative;
+    border-radius: 50%;
+    width: 38px;
+    left: 10px;
+    bottom: -10px;
+}
+
+.dum5{
+    position: relative;
+    border-radius: 50%;
+    width: 56px;
+    left: 10px;
+    bottom: -10px;
+}
