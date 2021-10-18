@@ -1,4 +1,5 @@
 *{
+   
 padding: 0;
 margin: 0;
 box-sizing: border-box;
@@ -287,3 +288,59 @@ border-radius: 50%;
     left: 10px;
     bottom: -10px;
 }
+
+#i1 .person{
+position:absolute;
+border-radius: 12%;
+height: 188px;
+width: 140px;
+
+
+}
+
+#i2 .person{
+position:absolute;
+border-radius: 12%;
+height: 188px;
+width: 140px;
+    
+    
+    }
+#i3 .person{
+position:absolute;
+border-radius: 12%;
+height: 188px;
+width: 140px;
+        
+        
+ }
+#i4 .person{        
+position:absolute;
+border-radius: 12%;
+height: 188px;
+width: 140px;
+            
+            
+}
+
+.circle1{
+    display: flex; 
+    position: absolute;
+    z-index:+1;
+    height: 15%;
+    left:54px;
+    bottom:10px;
+
+}
+.plus{
+   display: flex; 
+   position: absolute;
+   z-index:+1;
+   height: 10%;;
+   left:58px;
+   bottom:14px;
+}
+.plus:hover{    
+   background-color: rgb(241, 82, 255);
+   border-radius: 50%;
+ }
